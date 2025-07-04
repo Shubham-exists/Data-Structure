@@ -42,7 +42,7 @@ Each problem is documented with a brief p├── Arrays/
 - Inside each folder: Markdown files for problems and their solutions.
 - `Notes/`: Contains conceptual notes and visual explanations.
 - `README.md`: Project overview and navigation.
-- `CONTRIBUTING.md`: Guidelines for contributions (if open-source).
+  
 
 
 ## How to Use
