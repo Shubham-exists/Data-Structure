@@ -20,18 +20,6 @@ This repository contains:
 1. **LeetCode Solutions**: Organized by problem categories and data structures.
 2. **Data Structure Notes**: Key concepts, algorithms, and tips related to each data structure.
 
-Each problem is documented with a brief p├── Arrays/
-│ ├── TwoSum.md
-│ ├── MaximumSubarray.md
-│ └── ...
-├── LinkedList/
-│ ├── ReverseLinkedList.md
-│ └── ...
-├── Stack/
-│ ├── ValidParentheses.md
-│ └── ...
-├── Queue/
-├── Trees/roblem statement, an approach to the solution, and a well-commented code. This helps me to keep track of how I solve problems and serves as a revision guide for later.
 
 ---
 
